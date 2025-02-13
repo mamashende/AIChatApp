@@ -24,6 +24,7 @@
 2.确保ohpm正确安装依赖
 
 3.使用自己的API：
+
 - 如何搭建自己的阿里云百炼平台的RAG智能体应用详见[基于阿里云百炼平台RAG智能体应用实现一个简单的Harmony OS开发者文档助手应用](https://www.cnblogs.com/ouyangzhiyong/p/18699545)
 
 - 如何配置API相关信息：在`entry/src/main/ets/common/constants/`路径下创建`ConstantsDev.ets`文件，按照目录下`Constants.ets`中的格式填入获取到的API信息，此文件不会被添加至git存储库，确保个人API使用安全。
