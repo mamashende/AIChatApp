@@ -20,7 +20,9 @@
 
 ## 如何构建
 1.拉取本项目
+
 2.确保ohpm正确安装依赖
+
 3.使用自己的API：
 - 如何搭建自己的阿里云百炼平台的RAG智能体应用详见[基于阿里云百炼平台RAG智能体应用实现一个简单的Harmony OS开发者文档助手应用](https://www.cnblogs.com/ouyangzhiyong/p/18699545)
 
